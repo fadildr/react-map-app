@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 }
 .leaflet-marker-icon {
-  background-image: url("./assets/images/marker-icon-2x.png ") !important;
+  background-image: url("./assets/images/marker-icon-2x.png ");
 }
 .leaflet-marker-shadow {
   background-image: url("./assets/images/marker-shadow.png");
