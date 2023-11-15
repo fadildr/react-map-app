@@ -1,6 +1,7 @@
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-
+// import "leaflet-defaulticon-compatibility";
+// import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.webpack.css";
 const Map = () => {
   const position = [-6.228113484071862, 106.80703103118532];
 
